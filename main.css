@@ -1,0 +1,35 @@
+
+
+
+body{
+    padding-top : 50px;
+}
+
+#header {
+    position:relative;
+    padding: 0;
+    margin: 0;
+    height: 493px;
+    overflow: hidden;
+    background-image: url("https://www.digitalcommerce360.com/wp-content/uploads/2017/01/Clothing_Accessories-1024x493.png");
+    background-size: 100% 600px;
+    background-repeat : no-repeat;
+    background-attachment: fixed;
+}
+
+#clothes {
+
+    height: 130px;
+    width: 140px;
+
+}
+
+footer{
+    margin:25px;
+}
+.table-auto{
+    width: auto;
+    margin:0 auto;
+    ;
+}
+
